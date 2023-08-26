@@ -3,6 +3,8 @@
 nitro sends files in public efficiently in development, but occasionally 404s in
 production.
 
+![snapshot](snapshot.gif)
+
 <br />
 
 ## Usage
