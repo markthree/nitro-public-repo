@@ -1,0 +1,12 @@
+{
+  "name": "nitro-public-repo",
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build",
+    "prepare": "nitro prepare",
+    "serve": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "nitropack": "^2.6.1"
+  }
+}
