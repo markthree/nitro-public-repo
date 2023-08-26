@@ -33,3 +33,9 @@ npm run serve
 Reopen multiple times →
 [http://localhost:3000/hello.txt](http://localhost:3000/hello.txt) may appear
 404
+
+<br />
+
+## info
+
+![info](./info.png)
