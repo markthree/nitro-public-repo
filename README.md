@@ -1,7 +1,7 @@
 # nitro-public-repo
 
-nitro sends files in public efficiently in development, but occasionally 404s in
-production.
+nitro sends files in public efficiently in development, but occasionally `404`
+in production.
 
 ![snapshot](snapshot.gif)
 
